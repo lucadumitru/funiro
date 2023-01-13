@@ -3208,7 +3208,7 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item:not(.lg-zoomable).lg-co
   .menu__body {
     position: fixed;
     width: 100%;
-    height: 100%;
+    height: 100vh;
     top: 0;
     left: -100%;
     overflow: auto;
